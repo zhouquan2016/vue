@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+selfhosting.binExcludes=/vue/target/classes,/vue/target/test-classes
